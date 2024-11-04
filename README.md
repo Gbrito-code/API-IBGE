@@ -1,11 +1,11 @@
 # Utilizando api publica do IBGE - Query Builder
 Este repositório contém um código simples para realizar requisições à API do IBGE, permitindo a extração e manipulação de dados públicos. O objetivo deste projeto é demonstrar como acessar e processar dados de forma prática e eficiente usando Python.
 
-### Referências
+### 📃 Referências
 Documentação: https://servicodados.ibge.gov.br/api/docs 
 
 
-## 📜 Tecnologias Utilizadas
+## ⚒️ Tecnologias Utilizadas
 - Python 3.x
 - Biblioteca requests para chamadas HTTP.
 - Biblioteca pprint para impressão formatada dos dados.
